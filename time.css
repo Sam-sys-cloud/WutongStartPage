@@ -1,0 +1,17 @@
+.time{
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    background: rgba(113, 136, 191, 0);
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    
+}
+.zuo{
+    text-align: left;
+}
+.you{
+    text-align: right;
+}
